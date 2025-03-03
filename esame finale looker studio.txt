@@ -1,5 +1,10 @@
 
 Esame finale looker studio
 
+Partendo dai file excel, ho fatto la pulizia dei dati tramite power query e tabelle excel. Successivamente ho importato i file puliti in Looker Studio e impostato il progetto.
+Ho dapprima scelto il tema e layout, poi iniziato a creare connessioni tra le tabelle per poi creare la parte grafica.
+Dopo aver preparato i grafici, mi sono dedicata ai testi e unito elementi provenienti da un altro tool (Canva) per rendere l'analisi più completa.
+Infine ho revisionato il lavoro e creato il collegamento esterno.
+
 
 https://lookerstudio.google.com/embed/reporting/df4f1575-9a63-4fdc-b319-4a70c54c7157/page/p_xd6nroh2pd
